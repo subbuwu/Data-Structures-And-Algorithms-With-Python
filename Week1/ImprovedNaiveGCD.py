@@ -6,11 +6,11 @@ def naivegcd(m,n):
         if m%i==0 and n%i==0:
             res.append(i)
     return res[-1]
+    #Aldready arranged in ascending so returning last element that is Greatest.
 op = naivegcd(8,12)
 print("GCD of 8 and 12 using lists is",op)
 #Here the main approach is to scan in one go.
-#8=1,2,4,8 || 12=1,2,3,4,6,12
-#Anyway the gcd is going to be one's min factor
+#Anyway the gcd is going to be one of two numbers min factor
 
 
 #2.)WITHOUT LISTS :
