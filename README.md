@@ -1,4 +1,4 @@
-![](https://github.com/subbuwu/Data-Structures-And-Algorithms-With-Python/blob/main/ignoregif/wavehand.gif)
+![](https://github.com/subbuwu/Data-Structures-And-Algorithms-With-Python/blob/main/ignoregif/wave-hand.gif)
 
 HELLO ! Welcome to DSA With Python.
 
